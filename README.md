@@ -1,2 +1,6 @@
 # MobEAD
-MobEAD Unyleya - Valdir Miranda
+*****************************************
+*                                       *
+*    MobEAD Unyleya - Valdir Miranda    *
+*                                       *
+*****************************************
